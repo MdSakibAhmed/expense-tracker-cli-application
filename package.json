@@ -1,0 +1,25 @@
+{
+  "name": "expense-tracker",
+  "version": "1.0.0",
+  "description": "Expense tracker app. Track your monthly  expense ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MdSakibAhmed/expense-tracker-cli-application.git"
+  },
+  "keywords": [
+    "expense-tracker",
+    "node.js",
+    "express.js",
+    "commander"
+  ],
+  "author": "Salman Sakib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MdSakibAhmed/expense-tracker-cli-application/issues"
+  },
+  "homepage": "https://github.com/MdSakibAhmed/expense-tracker-cli-application#readme"
+}
