@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "description": "Expense tracker app. Track your monthly  expense ",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "expense-tracker": "./bin/expense-tracker.js"
   },
   "repository": {
     "type": "git",
